@@ -1,7 +1,5 @@
 # DevilSticks
 
-Author: Jonathan Warren
+Animations for a NeoPixel strip inside a tube, playing symmetrically from the centre.
 
-Last Updated: December 2019
-
-URL: https://jhwarren.com/projects/DevilSticks/
+https://jhwarren.com/projects/DevilSticks/
